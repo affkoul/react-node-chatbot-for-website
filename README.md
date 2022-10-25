@@ -26,6 +26,6 @@ ReactJS frontend and NodeJS backend Chatbot Web App for Websites on PCs.
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
-Blog Post PaaS Provided by [GAC DEV](https://geniusandcourage.com)
+Website Chatbot Provided by [GAC DEV](https://geniusandcourage.com)
 
 ![Website Chatbot](https://hlwsdtech.com/chatbot.png)
