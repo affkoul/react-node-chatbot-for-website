@@ -28,4 +28,4 @@ ReactJS frontend and NodeJS backend Chatbot Web App for Websites on PCs.
 
 Website Chatbot Provided by [GAC DEV](https://geniusandcourage.com)
 
-![Website Chatbot](https://hlwsdtech.com:8081/chat-bot.png)
+![Website Chatbot](https://hlwsdtech.com:8081/images/chat-bot.png)
